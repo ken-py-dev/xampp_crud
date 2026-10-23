@@ -100,7 +100,7 @@ To change the table or add a column, touch `database.py` + `products.py` only.
 
 ![Xampp](sanis2.PNG)
 
-> To add your own screenshots, save them as `docs/screenshot-menu.png` and `docs/screenshot-list.png`, or update the paths above.
+> Mao ni Examples
 
 ## Author
 
